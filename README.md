@@ -1,4 +1,5 @@
 Еhe project was written in C# + WPF and used MVVM
+
 There is no backend, just visual representation
 
 Screenshots:
